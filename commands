@@ -1,0 +1,4 @@
+
+#enable XMOS
+sudo gedit /etc/fstab
+none /proc/bus/usb usbfs defaults,devmode=0666 0 0
