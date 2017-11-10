@@ -1,3 +1,5 @@
+#enagle sudo gedit
+xhost +local:
 
 #enable XMOS
 sudo gedit /etc/fstab
