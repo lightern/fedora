@@ -1,7 +1,7 @@
 #rust
 sudo dnf remove rust
 curl https://sh.rustup.rs -sSf | sh
-
+sudo dnf install gcc
 
 #enagle sudo gedit
 xhost +local:
