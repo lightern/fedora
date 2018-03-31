@@ -1,3 +1,8 @@
+#rust
+sudo dnf remove rust
+curl https://sh.rustup.rs -sSf | sh
+
+
 #enagle sudo gedit
 xhost +local:
 
