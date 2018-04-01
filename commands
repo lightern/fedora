@@ -1,4 +1,5 @@
 #rust
+https://developer.fedoraproject.org/tech/languages/rust/format-rust-code.html
 sudo dnf remove rust
 curl https://sh.rustup.rs -sSf | sh
 sudo dnf install gcc
