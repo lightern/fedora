@@ -1,4 +1,6 @@
 #rust
+#1 install gtk
+https://developer.fedoraproject.org/tech/languages/c/gtk.html
 https://developer.fedoraproject.org/tech/languages/rust/format-rust-code.html
 sudo dnf remove rust
 curl https://sh.rustup.rs -sSf | sh
