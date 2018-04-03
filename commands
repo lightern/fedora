@@ -4,16 +4,11 @@
 
 ## Rust
 curl https://sh.rustup.rs -sSf | sh
-# Reboot
-#1 install gtk
-https://developer.fedoraproject.org/tech/languages/c/gtk.html
-#2 install fmt
-https://github.com/rust-lang-nursery/rustfmt
-https://developer.fedoraproject.org/tech/languages/rust/format-rust-code.html
-sudo dnf remove rust
-curl https://sh.rustup.rs -sSf | sh
-sudo dnf install gcc
-export PKG_CONFIG_PATH=/usr/bin
+# Reboot and done!
+# Gtk: https://developer.fedoraproject.org/tech/languages/c/gtk.html
+# Install fmt (https://github.com/rust-lang-nursery/rustfmt):
+rustup component add rustfmt-preview
+
 
 
 #enagle sudo gedit
