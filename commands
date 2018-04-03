@@ -1,7 +1,10 @@
-1) Install updates!
-2) Gnome Tweaks
+# Install updates!
+# Settings->Devices->Mouse->Tap to Click      
+# Gnome Tweaks
 
-#rust
+## Rust
+curl https://sh.rustup.rs -sSf | sh
+# Reboot
 #1 install gtk
 https://developer.fedoraproject.org/tech/languages/c/gtk.html
 #2 install fmt
