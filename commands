@@ -5,10 +5,13 @@
 ## Rust
 curl https://sh.rustup.rs -sSf | sh
 # Reboot and done!
-# Gtk: https://developer.fedoraproject.org/tech/languages/c/gtk.html
+# Gtk 
+https://developer.fedoraproject.org/tech/languages/c/gtk.html
 # Install fmt (https://github.com/rust-lang-nursery/rustfmt):
 rustup component add rustfmt-preview
 
+## Visual Studio Code
+https://code.visualstudio.com/docs/setup/linux
 
 
 #enagle sudo gedit
