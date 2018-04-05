@@ -1,6 +1,7 @@
 # Install updates!
 # Settings->Devices->Mouse->Tap to Click      
 # Gnome Tweaks
+# Glade
 
 ## Rust
 curl https://sh.rustup.rs -sSf | sh
